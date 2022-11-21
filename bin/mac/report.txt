@@ -1,0 +1,262 @@
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene002.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/4_s.png
+assets/images/start_deactive.png
+assets/images/start_active.png
+assets/images/Esci.png
+assets/images/active_esci.png
+assets/images/tutorial.png
+assets/images/tutorial_deactive.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene008.vs'
+-------------------------------------------------------------------------------
+assets/images/more complex logic port game/logic_port_game.png
+assets/images/completato.png
+assets/images/more complex logic port game/gold_star.png
+assets/images/more complex logic port game/active_nand.png
+assets/images/more complex logic port game/active_and.png
+assets/images/more complex logic port game/active_nor.png
+assets/images/more complex logic port game/active_or.png
+assets/images/more complex logic port game/sx_sx_sx.png
+assets/images/more complex logic port game/sx_sx_dx.png
+assets/images/more complex logic port game/sx_dx_sx.png
+assets/images/more complex logic port game/sx_dx_dx.png
+assets/images/more complex logic port game/dx_sx_sx.png
+assets/images/more complex logic port game/dx_sx_dx.png
+assets/images/more complex logic port game/dx_dx_sx.png
+assets/images/more complex logic port game/dx_dx_dx.png
+assets/images/more complex logic port game/sx_sx.png
+assets/images/more complex logic port game/sx_dx.png
+assets/images/more complex logic port game/dx_sx.png
+assets/images/more complex logic port game/dx_dx.png
+assets/images/more complex logic port game/sx.png
+assets/images/more complex logic port game/dx.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene015.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/6_s.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene007.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/fire_castle.png
+assets/backgrounds/front_fire_castle.png
+assets/images/key.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character000.vc'
+-------------------------------------------------------------------------------
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_000.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_001.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_002.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_003.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_004.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_005.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_006.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_007.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_008.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_009.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_010.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_011.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_012.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_013.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_014.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_015.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_016.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_017.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_018.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_019.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_020.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_021.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_022.png
+assets/characters/main_character/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_023.png
+assets/sounds/step 1.wav
+assets/sounds/step 2.wav
+assets/images/previus.png
+assets/images/next.png
+assets/backgrounds/dialog.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character005.vc'
+-------------------------------------------------------------------------------
+assets/characters/Reaper_Man_2/PNG/PNG Sequences/Walking/0_Reaper_Man_Walking_018.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene004.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/transparent_black.png
+assets/images/resume.png
+assets/images/active_resume.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene014.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/5_s.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character001.vc'
+-------------------------------------------------------------------------------
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_000.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_001.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_002.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_003.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_004.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_005.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_006.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_007.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_008.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_009.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_010.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_011.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_012.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_013.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_014.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_015.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_016.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_017.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_018.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_019.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_020.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_021.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_022.png
+assets/characters/ice_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_023.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character004.vc'
+-------------------------------------------------------------------------------
+assets/characters/Reaper_Man_3/PNG/left_position.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene000.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/castle_hall_new.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene010.vs'
+-------------------------------------------------------------------------------
+assets/images/door.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene001.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/message.png
+assets/images/inverti.png
+assets/images/inverti_active.png
+assets/images/cifrario.png
+assets/images/cifrario_active.png
+assets/images/close.png
+assets/images/richiesta_di_aiuto.png
+assets/images/reset.png
+assets/images/active_reset.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene005.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/mapV2.png
+assets/images/correct_route.png
+assets/images/wrong_route.png
+assets/images/red_square.png
+assets/images/green_square.png
+assets/images/left_sword.png
+assets/images/rigth_sword.png
+assets/images/1m.png
+assets/images/2m.png
+assets/images/3m.png
+assets/images/4m.png
+assets/images/5m.png
+assets/images/6m.png
+assets/images/7m.png
+assets/images/8m.png
+assets/images/9m.png
+assets/images/10m.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene012.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/2_s.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character002.vc'
+-------------------------------------------------------------------------------
+assets/characters/fire_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_005.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene011.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/1_s.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene003.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/external_winter_background.png
+assets/images/trunks.png
+assets/images/map_icon.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene009.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/inside_fire_castle.png
+assets/images/open_chest.png
+assets/images/chest.png
+assets/images/open_treasure.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Interfaces.vi'
+-------------------------------------------------------------------------------
+assets/backgrounds/inventory.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene006.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/black.png
+assets/images/dopo_un_breve_tragitto.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character003.vc'
+-------------------------------------------------------------------------------
+assets/characters/Reaper_Man_1/PNG/PNG Sequences/Walking/0_Reaper_Man_Walking_019.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\game.vis'
+-------------------------------------------------------------------------------
+assets/fonts/medievale/Chomsky.otf
+assets/images/old-paper.png
+assets/icon/Mouse.png
+assets/icon/Look.png
+assets/icon/Use.png
+assets/icon/Speak.png
+assets/sounds/open-book.mp3
+assets/sounds/close_book.mp3
+assets/sounds/walking.wav
+game.veb
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Character000.vc 0 main_character
+
+Character001.vc 1 winter_golem
+
+Character002.vc 2 fire_golem
+
+Character003.vc 4 true_monster
+
+Character004.vc 5 false_monster
+
+Character005.vc 6 tutorial_monster
+
+Interfaces.vi 0 
+
+Scene000.vs 0 start_scene
+
+Scene001.vs 13 message_menu
+
+Scene002.vs 12 start_menu
+
+Scene003.vs 2 external_winter
+
+Scene004.vs 1 pause_menu
+
+Scene005.vs 3 map_menu
+
+Scene006.vs 5 transition_scene
+
+Scene007.vs 6 fire_castle
+
+Scene008.vs 10 logic_port_game
+
+Scene009.vs 11 fire_castle_inside
+
+Scene010.vs 14 tutorial_scene
+
+Scene011.vs 15 pause_1
+
+Scene012.vs 17 pause_2
+
+Scene014.vs 19 pause_4
+
+Scene015.vs 20 pause_5
+
+game.vis 0 
+
