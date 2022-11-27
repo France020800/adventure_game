@@ -10,6 +10,17 @@ assets/images/tutorial_deactive.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene008.vs'
 -------------------------------------------------------------------------------
+assets/backgrounds/inside_fire_castle.png
+assets/images/open_chest.png
+assets/images/chest.png
+assets/images/open_treasure.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene015.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/7.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene007.vs'
+-------------------------------------------------------------------------------
 assets/images/more complex logic port game/logic_port_game.png
 assets/images/completato.png
 assets/images/more complex logic port game/gold_star.png
@@ -31,16 +42,6 @@ assets/images/more complex logic port game/dx_sx.png
 assets/images/more complex logic port game/dx_dx.png
 assets/images/more complex logic port game/sx.png
 assets/images/more complex logic port game/dx.png
---------------------------------------------------------------------------------
-Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene015.vs'
--------------------------------------------------------------------------------
-assets/backgrounds/start_menu/6_s.png
---------------------------------------------------------------------------------
-Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene007.vs'
--------------------------------------------------------------------------------
-assets/backgrounds/fire_castle.png
-assets/backgrounds/front_fire_castle.png
-assets/images/key.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character000.vc'
 -------------------------------------------------------------------------------
@@ -80,13 +81,27 @@ assets/characters/Reaper_Man_2/PNG/PNG Sequences/Walking/0_Reaper_Man_Walking_01
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene004.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/transparent_black.png
-assets/images/resume.png
-assets/images/active_resume.png
+assets/backgrounds/mapV2.png
+assets/images/correct_route.png
+assets/images/wrong_route.png
+assets/images/red_square.png
+assets/images/green_square.png
+assets/images/left_sword.png
+assets/images/rigth_sword.png
+assets/images/1m.png
+assets/images/2m.png
+assets/images/3m.png
+assets/images/4m.png
+assets/images/5m.png
+assets/images/6m.png
+assets/images/7m.png
+assets/images/8m.png
+assets/images/9m.png
+assets/images/10m.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene014.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/start_menu/5_s.png
+assets/backgrounds/start_menu/6_s.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character001.vc'
 -------------------------------------------------------------------------------
@@ -125,7 +140,9 @@ assets/backgrounds/castle_hall_new.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene010.vs'
 -------------------------------------------------------------------------------
-assets/images/door.png
+assets/backgrounds/start_menu/1_s.png
+assets/images/resume.png
+assets/images/active_resume.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene001.vs'
 -------------------------------------------------------------------------------
@@ -141,27 +158,8 @@ assets/images/active_reset.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene005.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/mapV2.png
-assets/images/correct_route.png
-assets/images/wrong_route.png
-assets/images/red_square.png
-assets/images/green_square.png
-assets/images/left_sword.png
-assets/images/rigth_sword.png
-assets/images/1m.png
-assets/images/2m.png
-assets/images/3m.png
-assets/images/4m.png
-assets/images/5m.png
-assets/images/6m.png
-assets/images/7m.png
-assets/images/8m.png
-assets/images/9m.png
-assets/images/10m.png
---------------------------------------------------------------------------------
-Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene012.vs'
--------------------------------------------------------------------------------
-assets/backgrounds/start_menu/2_s.png
+assets/backgrounds/black.png
+assets/images/dopo_un_breve_tragitto.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character002.vc'
 -------------------------------------------------------------------------------
@@ -169,7 +167,11 @@ assets/characters/fire_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_005.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene011.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/start_menu/1_s.png
+assets/backgrounds/start_menu/2_s.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene013.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/5_s.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene003.vs'
 -------------------------------------------------------------------------------
@@ -179,10 +181,7 @@ assets/images/map_icon.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene009.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/inside_fire_castle.png
-assets/images/open_chest.png
-assets/images/chest.png
-assets/images/open_treasure.png
+assets/images/door.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Interfaces.vi'
 -------------------------------------------------------------------------------
@@ -190,8 +189,9 @@ assets/backgrounds/inventory.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Scene006.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/black.png
-assets/images/dopo_un_breve_tragitto.png
+assets/backgrounds/fire_castle.png
+assets/backgrounds/front_fire_castle.png
+assets/images/key.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\Character003.vc'
 -------------------------------------------------------------------------------
@@ -208,6 +208,9 @@ assets/icon/Speak.png
 assets/sounds/open-book.mp3
 assets/sounds/close_book.mp3
 assets/sounds/walking.wav
+assets/sounds/Fruit collect 1.wav
+assets/sounds/BUTTON_12.wav
+assets/sounds/Retro Event Wrong Simple 03.wav
 game.veb
 --------------------------------------------------------------------------------
 
@@ -236,27 +239,27 @@ Scene002.vs 12 start_menu
 
 Scene003.vs 2 external_winter
 
-Scene004.vs 1 pause_menu
+Scene004.vs 3 map_menu
 
-Scene005.vs 3 map_menu
+Scene005.vs 5 transition_scene
 
-Scene006.vs 5 transition_scene
+Scene006.vs 6 fire_castle
 
-Scene007.vs 6 fire_castle
+Scene007.vs 10 logic_port_game
 
-Scene008.vs 10 logic_port_game
+Scene008.vs 11 fire_castle_inside
 
-Scene009.vs 11 fire_castle_inside
+Scene009.vs 14 tutorial_scene
 
-Scene010.vs 14 tutorial_scene
+Scene010.vs 15 pause_1
 
-Scene011.vs 15 pause_1
+Scene011.vs 17 pause_2
 
-Scene012.vs 17 pause_2
+Scene013.vs 19 pause_4
 
-Scene014.vs 19 pause_4
+Scene014.vs 20 pause_5
 
-Scene015.vs 20 pause_5
+Scene015.vs 21 pause_6
 
 game.vis 0 
 
