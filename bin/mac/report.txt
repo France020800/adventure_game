@@ -1,6 +1,6 @@
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\mac\Scene002.vs'
 -------------------------------------------------------------------------------
-assets/backgrounds/start_menu/4_s.png
+assets/backgrounds/title_scene.png
 assets/images/start_deactive.png
 assets/images/start_active.png
 assets/images/Esci.png
@@ -161,6 +161,10 @@ Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\mac\Scene
 assets/backgrounds/black.png
 assets/images/dopo_un_breve_tragitto.png
 --------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\mac\Scene012.vs'
+-------------------------------------------------------------------------------
+assets/backgrounds/start_menu/4_s.png
+--------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\mac\Character002.vc'
 -------------------------------------------------------------------------------
 assets/characters/fire_golem/PNG/PNG Sequences/Walking/0_Golem_Walking_005.png
@@ -211,6 +215,7 @@ assets/sounds/walking.wav
 assets/sounds/Fruit collect 1.wav
 assets/sounds/BUTTON_12.wav
 assets/sounds/Retro Event Wrong Simple 03.wav
+plugins/Object Movies/config.ini
 game.veb
 --------------------------------------------------------------------------------
 
@@ -254,6 +259,8 @@ Scene009.vs 14 tutorial_scene
 Scene010.vs 15 pause_1
 
 Scene011.vs 17 pause_2
+
+Scene012.vs 18 pause_3
 
 Scene013.vs 19 pause_4
 
