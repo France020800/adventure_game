@@ -75,6 +75,11 @@ assets/images/previus.png
 assets/images/next.png
 assets/backgrounds/dialog.png
 --------------------------------------------------------------------------------
+Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\windows\Scene016.vs'
+-------------------------------------------------------------------------------
+assets/images/title.png
+assets/images/title_active.png
+--------------------------------------------------------------------------------
 Container 'C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\windows\Character005.vc'
 -------------------------------------------------------------------------------
 assets/characters/Reaper_Man_2/PNG/PNG Sequences/Walking/0_Reaper_Man_Walking_018.png
@@ -209,12 +214,16 @@ assets/icon/Mouse.png
 assets/icon/Look.png
 assets/icon/Use.png
 assets/icon/Speak.png
+assets/videos/game_intro.mp4
 assets/sounds/open-book.mp3
 assets/sounds/close_book.mp3
 assets/sounds/walking.wav
 assets/sounds/Fruit collect 1.wav
 assets/sounds/BUTTON_12.wav
 assets/sounds/Retro Event Wrong Simple 03.wav
+assets/sounds/chest_opening.mp3
+assets/sounds/locked_chest.mp3
+assets/sounds/door_opening.wav
 plugins/Object Movies/config.ini
 game.veb
 --------------------------------------------------------------------------------
@@ -267,6 +276,8 @@ Scene013.vs 19 pause_4
 Scene014.vs 20 pause_5
 
 Scene015.vs 21 pause_6
+
+Scene016.vs 22 intro_scene
 
 game.vis 0 
 
