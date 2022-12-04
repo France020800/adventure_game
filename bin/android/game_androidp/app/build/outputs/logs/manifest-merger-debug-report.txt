@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\franc\.gradle\caches\transforms-3\42f3901167cb62cafd4acf2f2024da29\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\franc\.gradle\caches\transforms-3\fa4f8f313201b075cd01abebfd09d7f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\franc\.gradle\caches\transforms-3\49d93028f622a46581d2f792e41929a7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:3:7-38
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:6:7-37
+supports-screens
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:8:5-12:40
+	android:largeScreens
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:11:9-34
+uses-feature#0x00020000
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:14:5-77
+	android:glEsVersion
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:14:19-51
+	android:required
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:14:52-75
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.gamepad
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:26:9-48
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:29:9-49
+uses-feature#android.hardware.type.pc
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:34:9-48
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:37:5-73
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:37:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:38:5-67
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:38:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:39:5-68
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:39:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:40:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:41:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:43:22-78
+application
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:45:5-73:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\franc\.gradle\caches\transforms-3\fa4f8f313201b075cd01abebfd09d7f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\franc\.gradle\caches\transforms-3\fa4f8f313201b075cd01abebfd09d7f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:45:18-50
+	android:hardwareAccelerated
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:49:9-43
+	android:icon
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:46:18-54
+	android:allowBackup
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:47:18-44
+	android:theme
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:48:18-76
+activity#com.visionaire.player.MainActivity
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:50:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:51:19-56
+	android:label
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:52:19-51
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:50:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:53:13-56:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:55:27-74
+activity#com.visionaire.player.SampleDownloaderActivity
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:59:19-55
+	android:label
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:60:19-51
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:58:19-80
+activity#org.libsdl.app.SDLActivity
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:62:9-68:20
+	android:screenOrientation
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:66:13-50
+	android:label
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:67:19-51
+	android:launchMode
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:64:13-48
+	android:configChanges
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:65:13-133
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:62:19-60
+service#com.visionaire.player.SampleDownloaderService
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:70:9-81
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:70:18-78
+receiver#com.visionaire.player.SampleAlarmReceiver
+ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:72:9-78
+	android:name
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:72:19-75
+uses-sdk
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\franc\.gradle\caches\transforms-3\42f3901167cb62cafd4acf2f2024da29\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\franc\.gradle\caches\transforms-3\42f3901167cb62cafd4acf2f2024da29\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\franc\.gradle\caches\transforms-3\fa4f8f313201b075cd01abebfd09d7f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\franc\.gradle\caches\transforms-3\fa4f8f313201b075cd01abebfd09d7f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\franc\.gradle\caches\transforms-3\49d93028f622a46581d2f792e41929a7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\franc\.gradle\caches\transforms-3\49d93028f622a46581d2f792e41929a7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml

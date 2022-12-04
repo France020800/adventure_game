@@ -1,0 +1,158 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.visionaire.player"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" > <!-- Android 2.3.6 -->
+7    <!--
+8    <uses-sdk android:minSdkVersion="11"
+9          android:targetSdkVersion="14" />
+10    -->
+11    <uses-sdk
+12        android:minSdkVersion="21"
+12-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+13        android:targetSdkVersion="30" />
+13-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml
+14
+15    <supports-screens
+15-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:8:5-12:40
+16        android:anyDensity="true"
+16-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:11:9-34
+17        android:largeScreens="true"
+17-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:9:9-36
+18        android:normalScreens="true"
+18-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:12:9-37
+19        android:smallScreens="true" />
+19-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:10:9-36
+20
+21    <uses-feature
+21-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:14:5-77
+22        android:glEsVersion="0x00020000"
+22-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:14:19-51
+23        android:required="true" />
+23-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:14:52-75
+24
+25    <!-- Touchscreen support -->
+26    <uses-feature
+26-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:17:5-19:36
+27        android:name="android.hardware.touchscreen"
+27-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:18:9-52
+28        android:required="false" />
+28-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:19:9-33
+29
+30    <!-- Game controller support -->
+31    <uses-feature
+31-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:22:5-24:36
+32        android:name="android.hardware.bluetooth"
+32-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:23:9-50
+33        android:required="false" />
+33-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:24:9-33
+34    <uses-feature
+34-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:25:5-27:36
+35        android:name="android.hardware.gamepad"
+35-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:26:9-48
+36        android:required="false" />
+36-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:27:9-33
+37    <uses-feature
+37-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:28:5-30:36
+38        android:name="android.hardware.usb.host"
+38-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:29:9-49
+39        android:required="false" />
+39-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:30:9-33
+40
+41    <!-- External mouse input events -->
+42    <uses-feature
+42-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:33:5-35:36
+43        android:name="android.hardware.type.pc"
+43-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:34:9-48
+44        android:required="false" />
+44-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:35:9-33
+45
+46    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+46-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:37:5-73
+46-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:37:22-70
+47    <uses-permission android:name="android.permission.INTERNET" />
+47-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:38:5-67
+47-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:38:22-64
+48    <uses-permission android:name="android.permission.WAKE_LOCK" />
+48-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:39:5-68
+48-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:39:22-65
+49    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+49-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:40:5-79
+49-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:40:22-76
+50    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+50-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:41:5-75
+50-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:41:22-73
+51    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+51-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:43:5-81
+51-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:43:22-78
+52
+53    <application
+53-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:45:5-73:19
+54        android:allowBackup="true"
+54-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:47:18-44
+55        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+55-->[androidx.core:core:1.6.0] C:\Users\franc\.gradle\caches\transforms-3\d262b2397ef0c53fe7baf1e91c4860cb\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+56        android:debuggable="true"
+57        android:hardwareAccelerated="true"
+57-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:49:9-43
+58        android:icon="@drawable/ic_launcher"
+58-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:46:18-54
+59        android:label="@string/app_name"
+59-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:45:18-50
+60        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+60-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:48:18-76
+61        <activity
+61-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:50:9-57:20
+62            android:name="com.visionaire.player.MainActivity"
+62-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:50:19-68
+63            android:label="@string/app_name"
+63-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:52:19-51
+64            android:screenOrientation="landscape" >
+64-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:51:19-56
+65            <intent-filter>
+65-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:53:13-56:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:54:17-69
+66-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:54:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:55:17-77
+68-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:55:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:58:9-61:20
+72            android:name="com.visionaire.player.SampleDownloaderActivity"
+72-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:58:19-80
+73            android:label="@string/app_name"
+73-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:60:19-51
+74            android:screenOrientation="portrait" >
+74-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:59:19-55
+75        </activity>
+76        <activity
+76-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:62:9-68:20
+77            android:name="org.libsdl.app.SDLActivity"
+77-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:62:19-60
+78            android:alwaysRetainTaskState="true"
+78-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:63:13-49
+79            android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+79-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:65:13-133
+80            android:label="@string/app_name"
+80-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:67:19-51
+81            android:launchMode="singleInstance"
+81-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:64:13-48
+82            android:screenOrientation="landscape" >
+82-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:66:13-50
+83        </activity>
+84
+85        <service android:name="com.visionaire.player.SampleDownloaderService" />
+85-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:70:9-81
+85-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:70:18-78
+86
+87        <receiver android:name="com.visionaire.player.SampleAlarmReceiver" />
+87-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:72:9-78
+87-->C:\Users\franc\Desktop\France\UniFi\Tesi\adventure_game\bin\android\game_androidp\app\src\main\AndroidManifest.xml:72:19-75
+88    </application>
+89
+90</manifest>

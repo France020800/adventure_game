@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        applicationId 'com.visionaire.player'
+        minSdkVersion 21
+        targetSdkVersion 30
+
+        ndk {
+            abiFilters 'armeabi-v7a', 'arm64-v8a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    androidResources {
+        noCompress 'ini', 'vis', 'vv001', 'vv000'
+    }
+
+}
+
+dependencies {
+    implementation 'androidx.core:core:1.6.0'
+}

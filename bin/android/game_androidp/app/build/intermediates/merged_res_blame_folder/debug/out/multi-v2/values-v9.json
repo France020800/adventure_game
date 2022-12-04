@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\franc\\Desktop\\France\\UniFi\\Tesi\\adventure_game\\bin\\android\\game_androidp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v9\\values-v9.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\franc\\Desktop\\France\\UniFi\\Tesi\\adventure_game\\bin\\android\\game_androidp\\app\\src\\main\\res\\values-v9\\styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,148",
+                        "endColumns": "92,99",
+                        "endOffsets": "143,243"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,147",
+                        "endColumns": "91,98",
+                        "endOffsets": "142,241"
+                    }
+                }
+            ]
+        }
+    ]
+}
